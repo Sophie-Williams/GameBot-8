@@ -28,7 +28,6 @@
     <orderEntry type="library" name="Maven: org.eclipse.jetty.websocket:websocket-api:9.4.0.v20161208" level="project" />
     <orderEntry type="library" name="Maven: net.jodah:typetools:0.4.8" level="project" />
     <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.5" level="project" />
-    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.0" level="project" />
     <orderEntry type="library" name="Maven: net.java.dev.jna:jna:4.2.2" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.soundlibs:mp3spi:1.9.5.4" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.soundlibs:jlayer:1.0.1.4" level="project" />
@@ -36,5 +35,6 @@
     <orderEntry type="library" name="Maven: jflac:jflac:1.3" level="project" />
     <orderEntry type="library" name="Maven: com.googlecode.soundlibs:tritonus-share:0.3.7.4" level="project" />
     <orderEntry type="library" name="Maven: org.tritonus:tritonus-dsp:0.3.6" level="project" />
+    <orderEntry type="library" name="Maven: com.google.code.gson:gson:2.8.0" level="project" />
   </component>
 </module>
